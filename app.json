@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "react_native_jobs",
+    "slug": "jobssearch",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "397c5c30-56df-406e-b519-f99cab2ff5d5"
+      }
+    },
+    "owner": "rohan3155"
+  }
+}
